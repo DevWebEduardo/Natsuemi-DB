@@ -19,13 +19,13 @@ The repository is organized into the following folders:
 
 2. **Public**: The `Public` folder contains files that can be directly copied and pasted into your standalone Natsuemi project. These files may include images, scripts, or other static assets used by the project.
 
-Please note that this repository specifically focuses on providing the MongoDB database and associated image files. For the complete Natsuemi project, including the website and its functionalities, please visit [sakurasou.com.br](https://sakurasou.com.br).
+Please note that this repository specifically focuses on providing the MongoDB database and associated image files. For the complete Natsuemi project, including the website and its functionalities, please visit [solanin.icu](https://solanin.icu).
 
 ## Contributing
 
 We welcome contributions to the Natsuemi-DB repository. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request. Your contributions are greatly appreciated!
 
-If you have any questions or need further assistance, please don't hesitate to contact us at [sakurasou.com.br](https://sakurasou.com.br). We'll be happy to help!
+If you have any questions or need further assistance, please don't hesitate to contact us at [solanin.icu](https://solanin.icu). We'll be happy to help!
 
 Happy gaming and enjoy exploring the cooperative gaming experiences on Natsuemi!
 
