@@ -1,4 +1,4 @@
-# Natsuemi-DB
+# Natsuemi-DB Deprecated
 
 Welcome to Natsuemi-DB, a repository dedicated to storing the MongoDB database and associated image files used in the Natsuemi project. Natsuemi is a blog/site that focuses on cooperative games, providing gamers with an exciting platform to explore and discover cooperative gaming experiences.
 
